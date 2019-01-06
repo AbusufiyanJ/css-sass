@@ -37,7 +37,7 @@ section h1 {
   text-align: right;
 }
 
-.lead-banner .nanner-content {
+.lead-banner .banner-content {
   position: absolute;
   top: 50px;
   width: 100%;
@@ -59,35 +59,35 @@ section h1 {
   margin-bottom: 30px;
 }
 
-.lesson-banner {
+.lessons-banner {
   width: 100%;
   position: relative;
   color: white;
 }
 
-.lesson-banner .nanner-content {
+.lessons-banner .banner-content {
   position: absolute;
   top: 50px;
   width: 100%;
 }
 
-.lesson-banner img {
+.lessons-banner img {
   width: 100%;
 }
 
-.lesson-banner span {
+.lessons-banner span {
   font-size: 46px;
   display: block;
   text-transform: uppercase;
   font-weight: bold;
 }
 
-.lesson-banner span.title {
+.lessons-banner span.title {
   font-weight: normal;
   margin-bottom: 30px;
 }
 
-.lesson-banner li {
+.lessons-banner li {
   text-transform: uppercase;
   font-size: 20px;
   max-width: 500px;

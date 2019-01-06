@@ -11,7 +11,7 @@ $bannerHeading: 46px;
     width: 100%;
     position: relative;
     color: white;
-    .nanner-content{
+    .banner-content{
         position: absolute;
         top: 50px;
         width: 100%;
@@ -68,7 +68,7 @@ section h1{
     text-align: right;
 }
 
-.lesson-banner{
+.lessons-banner{
     @include banner;
     li{
         text-transform: uppercase;
