@@ -157,3 +157,13 @@ ul:after {
   display: block;
   clear: both;
 }
+
+#projects li {
+  float: left;
+  width: 8.33333%;
+  margin-right: 2%;
+}
+
+#projects li img {
+  width: 100%;
+}
