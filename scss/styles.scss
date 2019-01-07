@@ -76,9 +76,7 @@ ul{
 }
 
 #projects li{
-    float :left;
-    width: (100% /12);
-    margin-right: 2%;
+ @include grid(3 , 4%);
     img{
         width: 100%;
     }
